@@ -23,7 +23,7 @@ In this case, use `secrets/` and text files for secrets. The docker-compose.yml 
 # TODO
 specify a data folder location in `.devcontainer/devcontainer.json`
 
-# Documendation 
+# Documentation 
 
 ## Build
 `python3 -m mkdocs build`
