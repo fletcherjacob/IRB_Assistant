@@ -1,8 +1,15 @@
+# THIS REPO IS A WORK IN PROGRESS AND MAY NOT FUNCTION AS INTENDED
+
 # Generative AI for Institutional Review Board (IRB) Proposals
 
-## To test in development environment 
+## To test in development environment (From The Working Directory)
+Install required Python library requirements using the requirement.in file
 
-`streamlit run streamlit/app_you_want_to_run.py`
+`pip install -r requirements.in`
+
+Run the Streamlit server
+
+`streamlit run IRB_Assistant/main.py`
 
 In this case, use `.streamlit/secrets.toml` for secrets
 
